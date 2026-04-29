@@ -1,0 +1,6 @@
+duckdb>=0.10.0
+pandas>=2.0.0
+plotly>=5.18.0
+jupyter>=1.0.0
+ipywidgets>=8.0.0
+nbstripout>=0.7.0
